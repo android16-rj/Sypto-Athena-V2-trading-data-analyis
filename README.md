@@ -14,5 +14,5 @@
 
     - Merge data in above tables to create a dataframe for further analyis.
 
-   - Data analysis using ["Microsoft Excel"](https://github.com/android16-rj/Sypto-Athena-V2-trading-data-analyis/blob/main/Sypto_athena_V2_trading_data.xlsx).
+   - Data analysis using [Microsoft Excel](https://github.com/android16-rj/Sypto-Athena-V2-trading-data-analyis/blob/main/Sypto_athena_V2_trading_data.xlsx).
 
