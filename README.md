@@ -13,7 +13,8 @@
         - table no 3 : October 2021 to August 2022
 
     - Merge data in above tables to create a dataframe for further analyis.
-
+    
+   - Used Beautiful Soup and pandas for Scraping and all the data cleaning. (please see the [notebook file](https://github.com/android16-rj/Sypto-Athena-V2-trading-data-analyis/blob/main/sypto-web_scraping.ipynb) for more details)
    - Data analysis using [Microsoft Excel](https://github.com/android16-rj/Sypto-Athena-V2-trading-data-analyis/blob/main/Sypto_athena_V2_trading_data.xlsx).
 
    - url for the web page scraped is [here](https://learn.sypto.xyz/invest-in-bitcoin-athena-v2/)
