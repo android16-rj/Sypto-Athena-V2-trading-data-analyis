@@ -16,3 +16,5 @@
 
    - Data analysis using [Microsoft Excel](https://github.com/android16-rj/Sypto-Athena-V2-trading-data-analyis/blob/main/Sypto_athena_V2_trading_data.xlsx).
 
+   - url for the web page scraped is [here](https://learn.sypto.xyz/invest-in-bitcoin-athena-v2/)
+
