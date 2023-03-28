@@ -1,4 +1,4 @@
-# Sypto-Athena-V2-trading-data-analyis
+# Sypto-Athena-V2-trading-data-analysis
 
 ## About Athena V2
 Sypto is a fully managed portfolio management service for cryptocurrencies. With a host of different products, built for traders and investors alike!
