@@ -1,5 +1,10 @@
 # Sypto-Athena-V2-trading-data-analyis
 
+## About Athena V2
+Sypto is a fully managed portfolio management service for cryptocurrencies. With a host of different products, built for traders and investors alike!
+Sypto uses its algorithm trading bot Athena for trading in crypto. Athena has been trained for historical data for backtesting.
+you can learn more about Athena [here](https://www.sypto.xyz/athena)
+
 
 ## Bitcoin Backtesting Results: Athena V2 | Learn Crypto with Sypto
 
