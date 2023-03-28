@@ -6,7 +6,7 @@ Sypto uses its algorithm trading bot Athena for trading in crypto. Athena has be
 you can learn more about Athena [here](https://www.sypto.xyz/athena)
 
 
-## Bitcoin Backtesting Results: Athena V2 | Learn Crypto with Sypto
+## Bitcoin Backtesting Results: Athena V2
 
    ### We will scrape the Backtesting results of Athena V2 using BeautifulSoup.
 
